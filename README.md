@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# PostMingle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PostMingle is a React-based web app enabling users to create text posts, add comments, and seamlessly search through content. The user-friendly interface, coupled with robust user authentication, ensures secure interactions. With a responsive design, PostMingle delivers a smooth and engaging experience across various devices.
 
-## Available Scripts
+## Live - https://postmingle.onrender.com/
 
-In the project directory, you can run:
+## To Run locally - 
+### Frontend -
+1) clone - https://github.com/Divyansh-soni17/PostMingle_frontend
+2) npm install
+3) npm run start
 
-### `npm start`
+### Backend - 
+1) clone -  https://github.com/Divyansh-soni17/PostMingle_Backend
+2) npm install
+3) npm run dev
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/f5c20108-b69e-41dc-982f-04c1e7031173)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/9f021828-d0d3-47ca-bbcb-c824c6836cdc)
 
-### `npm run build`
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/354c6f56-531d-4a1f-aaa0-cb53152e4e38)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/fc5795bf-ed4d-420d-8b80-0cd229df2b76)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/016e48a8-c296-4214-bd43-20baaab91573)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/022f2591-1cfd-4b7c-9a3e-2d6b65126f97)
 
-### `npm run eject`
+![image](https://github.com/Divyansh-soni17/PostMingle_frontend/assets/86187108/f7767351-3736-42ac-82ba-51bd011409ce)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies/Frameworks - React,Node,Express,MongoDb.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
